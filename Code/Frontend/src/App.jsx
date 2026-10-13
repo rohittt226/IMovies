@@ -78,6 +78,7 @@ function App() {
                 <svg
                   className="button-icon"
                   role="presentation"
+                  rmffmfmffffkf
                   aria-hidden="true"
                 >
                   <use href="/icons.svg#discord-icon"></use>
@@ -91,6 +92,7 @@ function App() {
                   className="button-icon"
                   role="presentation"
                   aria-hidden="true"
+                  gfhfhfhg
                 >
                   <use href="/icons.svg#x-icon"></use>
                 </svg>
@@ -103,6 +105,7 @@ function App() {
                   className="button-icon"
                   role="presentation"
                   aria-hidden="true"
+                  fgggfgg
                 >
                   <use href="/icons.svg#bluesky-icon"></use>
                 </svg>
