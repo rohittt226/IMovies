@@ -105,7 +105,7 @@ function App() {
                   className="button-icon"
                   role="presentation"
                   aria-hidden="true"
-                  fgggfgg
+                  
                 >
                   <use href="/icons.svg#bluesky-icon"></use>
                 </svg>
