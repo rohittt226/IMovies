@@ -109,4 +109,4 @@ To demonstrate full-stack web development through a movie ticket booking system 
 
 ## 📌 Project Information
 
-**Project Name**
+**Project Name**-IMovies
