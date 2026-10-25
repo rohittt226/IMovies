@@ -1,2 +1,28 @@
-node_modules/
+# Environment variables
 .env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# Local admin and database maintenance scripts
+Code/Backend/createAdmin.js
+Code/Backend/resetAdmin.js
+Code/Backend/checkMongo.js
+Code/Backend/initReplicaSet.js
+
+# Backup files
+*.backup.js
+*.backup.jsx
+
+# Local backup archives
+*.zip
+*.bak

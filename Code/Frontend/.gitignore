@@ -22,3 +22,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Local backups
+*.zip
+*.bak
+
+# Local admin and database maintenance scripts
+Code/Backend/createAdmin.js
+Code/Backend/resetAdmin.js
+Code/Backend/checkMongo.js
+Code/Backend/initReplicaSet.js
